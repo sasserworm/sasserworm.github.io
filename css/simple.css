@@ -25,8 +25,11 @@ ul.menu li a {
   color: white;
   text-decoration: none;
 }
+ul.menu li.selected {
+  color: yellow;
+}
 ul.menu li a:hover {
-  color: #99DDFF;
+  color: #009933;
   text-decoration: underline;
 }
 
